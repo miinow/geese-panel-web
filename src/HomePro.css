@@ -1,0 +1,82 @@
+.home-pro{
+    width: 100%;
+    height: 20rem;
+    background-color: #00a0e8;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.home-pro-left, .home-pro-right{
+    padding-top: 1rem;
+    padding-left: 1rem;
+    width: 26rem;
+    margin-right: 6rem;
+}
+.home-pro-right{
+    width: 27rem;
+}
+
+.home-pro-left h2{
+    font-size: 2rem;
+    font-weight: normal;
+    margin: 1rem 0;
+}
+.home-pro-left button{
+    width: 12rem;
+    height: 3rem;
+    color: #ff0000;
+    border-radius: 4px;
+    font-size: 1rem;
+    background-color: #fad31d;
+
+    margin-top: 2rem;
+}
+
+.home-pro-left p, .home-pro-right p {
+    padding-left:0.5rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+.home-pro-left span, .home-pro-right span{
+    color: #000;
+
+}
+.home-pro-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home-pro-stand{
+    position: relative;
+    margin: 2rem 0;
+
+}
+
+.home-pro-stand p{
+    padding-left: 4rem;
+    margin: 0;
+}
+
+.icon-wrapper{
+    width: 4rem;
+    height: 4rem;
+    position: absolute;
+    left: 0;
+    top: -0.5rem;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.chart-icon{
+    width: 3rem;
+}
+.temp-icon{
+    height: 3em;
+}
+.pue-icon{
+    width: 2rem;
+}
+

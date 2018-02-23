@@ -1,0 +1,82 @@
+.service{
+    width: 100%;
+    color: #00a1e8;
+}
+.service-img{
+    width: 100%;
+    height: 44.5rem;
+    background: url("./images/service.gif") no-repeat;
+    background-size: 100%;
+}
+.service-basic{
+    width: 100%;
+    text-align: center;
+    margin: 4rem auto;
+}
+
+.service-basic img{
+    width: 6.25rem;
+    height: 6.25rem;
+    margin: 0 auto;
+}
+
+.service-basic p{
+    font-size: 2.8125rem;
+    margin: 1.25rem;
+}
+
+
+.service-custom, .service-rent{
+    width: 100%;
+    height: 8rem;
+    margin: 4rem auto 0;
+    position: relative;
+}
+
+.service-custom img, .service-rent img{
+    width: 8rem;
+    height: 8rem;
+    position: absolute;
+    left: 25rem;
+}
+
+.service-custom div, .service-rent div{
+    padding-left: 45rem;
+}
+
+.service-custom h2, .service-rent h2{
+    font-size: 2.8125rem;
+    margin: 1rem 0;
+}
+
+.service-custom p, .service-rent p{
+    font-size: 1rem;
+}
+
+.servie-circle{
+    width: 100%;
+    height: 36.5rem;
+    background-color: #00a1e8;
+    margin: 6rem 0;
+    position: relative;
+}
+
+.servie-circle img{
+    width: 23.5rem;
+    height: 23.5rem;
+    position: absolute;
+    top: 7rem;
+    left: 10rem;
+}
+
+.service-circle-right{
+    height: 100%;
+    margin-left: 40rem;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.service-circle-right div{
+    margin: 1.5rem 0;
+}

@@ -1,0 +1,10 @@
+.products{
+    width: 100%;
+    color: #00a1e8;
+}
+.products-img{
+    width: 100%;
+    height: 44.5rem;
+    background: url("./images/products.gif") no-repeat;
+    background-size: 100%;
+}

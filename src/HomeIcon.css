@@ -1,0 +1,35 @@
+.home-icon{
+    width: 19.5rem;
+    height: 17.35rem;
+    margin-right: 2.5rem;
+    z-index: 10;
+}
+
+.home-icon img{
+    width: 10.75rem;
+    /*height: 88%;*/
+    vertical-align: middle;
+}
+
+.home-icon-bg{
+    width: 19.53rem;
+    height: 17rem;
+    background-color: #f7f7f8;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.line{
+    width: 100%;
+    height: 6px;
+    background-color: #0fb4ea;
+}
+
+.shadow{
+    margin: 0 auto;
+    width: 50%;
+    height: 0;
+    box-shadow: 0 20px 80px 6px #909090;
+    z-index: 1;
+}

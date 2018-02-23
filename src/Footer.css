@@ -1,0 +1,13 @@
+.footer{
+    margin: 76px auto;
+    width: 80%;
+    font-size: 0.5rem;
+}
+.up-line{
+    text-align: center;
+    border-bottom: 1px solid #909090;
+}
+
+.base-line{
+    text-align: center;
+}
