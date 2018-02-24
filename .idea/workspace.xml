@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f34540cf-a7c2-40ad-8c9d-d649d239a6df" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +33,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="About.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="About.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/About.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
@@ -112,11 +115,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="255">
+                  <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -136,87 +139,50 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="HomeIcon.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/HomeIcon.css">
+          <file leaf-file-name="Home.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Home.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+                <state relative-caret-position="240">
+                  <caret line="16" column="23" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Home.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Home.css">
+          <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
+                <state relative-caret-position="90">
+                  <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="120">
+                    <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
                   <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Main.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/App.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="HomePro.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/HomePro.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="314">
-                  <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="HomePartner.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/HomePartner.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Service.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Service.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Products.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Products.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="About.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="About.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/About.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="105">
@@ -226,13 +192,44 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Product.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/Product.css">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
                   <folding />
                 </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.gif" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/images/home.gif">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="service.gif" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/images/service.gif">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="arrow.png" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/images/arrow.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
               </provider>
             </entry>
           </file>
@@ -267,7 +264,6 @@
         <option value="$PROJECT_DIR$/src/Main.css" />
         <option value="$PROJECT_DIR$/src/Header.css" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/HomeIcon.js" />
         <option value="$PROJECT_DIR$/src/HomeIcon.css" />
         <option value="$PROJECT_DIR$/src/HomePro.js" />
@@ -288,6 +284,10 @@
         <option value="$PROJECT_DIR$/src/Service.css" />
         <option value="$PROJECT_DIR$/src/About.js" />
         <option value="$PROJECT_DIR$/src/About.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -347,16 +347,6 @@
               <item name="geese-panel-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="geese-panel-web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="geese-panel-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geese-panel-web" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geese-panel-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geese-panel-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -406,12 +396,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519271592479</updated>
-      <workItem from="1519271593938" duration="43271000" />
+      <workItem from="1519271593938" duration="44767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43271000" />
+    <option name="totallyTimeSpent" value="44767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
@@ -447,14 +437,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/images/header.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -488,11 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/images/arrow.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -515,14 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -555,16 +524,6 @@
         <state relative-caret-position="345">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,14 +570,6 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,24 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Home.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Products.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -744,6 +677,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/About.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/home.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/service.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/service.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/arrow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/home.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/About.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -754,10 +728,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/About.css">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding />
         </state>
       </provider>
