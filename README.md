@@ -1,7 +1,9 @@
-###步湃科技网站
-主框架 react，react-router
 
-###
+####主框架 
+react，react-router
+
+
+####npm
 安装依赖 npm install
 
 开发环境 npm run start,  3000端口
