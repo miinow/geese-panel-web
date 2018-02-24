@@ -61,7 +61,7 @@
 }
 
 .service-circle{
-    width: 80%;
+    width: 70%;
     height: 100%;
     margin: 0 auto;
 
@@ -72,12 +72,12 @@
     height: 23.5rem;
     position: absolute;
     top: 20%;
-    left: 15%;
+    left: 22%;
 }
 
 .service-circle-right{
     height: 100%;
-    margin-left: 50%;
+    margin-left: 60%;
     color: #fff;
     display: flex;
     flex-direction: column;
