@@ -26,23 +26,25 @@ class Home extends Component {
 						<p>租赁交付，您的明智之选</p>
 					</div>
 				</div>
-				<div className="servie-circle">
-					<img src={require('./images/service-circle.gif')} alt="service-circle" />
-					<div className='service-circle-right'>
-						<div>
-							<h2>气流组织</h2>
-							<p>使用流量计对地板/送风口进行流量测定，并交付测定报告</p>
+				<div className="service-circle-wrapper">
+					<div className="service-circle">
+						<img src={require('./images/service-circle.gif')} alt="service-circle" />
+						<div className='service-circle-right'>
+							<div>
+								<h2>气流组织</h2>
+								<p>使用流量计对地板/送风口进行流量测定，并交付测定报告</p>
+							</div>
+							<div>
+								<h2>巡检</h2>
+								<p>现场挡板巡检，完善管理漏洞</p>
+							</div>
+							<div>
+								<h2>优化测评</h2>
+								<p>冷电匹配建议，CFD模拟结果，节能运行建议以及全面故障模拟评估</p>
+							</div>
 						</div>
-						<div>
-							<h2>巡检</h2>
-							<p>现场挡板巡检，完善管理漏洞</p>
-						</div>
-						<div>
-							<h2>优化测评</h2>
-							<p>冷电匹配建议，CFD模拟结果，节能运行建议以及全面故障模拟评估</p>
-						</div>
-					</div>
 
+					</div>
 				</div>
 			</div>
 		);
