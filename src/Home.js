@@ -9,7 +9,8 @@ class Home extends Component {
 		return (
 			<div className='home'>
 
-				<div className='img'></div>
+				{/*<div className='img'></div>*/}
+				<img className='home-img' src={require('./images/home.gif')} alt="home" />
 				<div className='icons'>
 					<HomeIcon img='arrow' />
 					<HomeIcon img='temp'/>

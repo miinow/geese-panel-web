@@ -5,8 +5,7 @@ class Home extends Component {
 	render () {
 		return (
 			<div className='service'>
-
-				<div className='service-img'></div>
+				<img className='service-img' src={require('./images/service.gif')} alt="service" />
 				<div className="service-basic">
 					<img src={require('./images/service-icon.png')} alt="service-icon" />
 					<p>基 础 服 务</p>

@@ -5,7 +5,7 @@ class About extends Component {
 	render () {
 		return (
 			<div className='about'>
-				<div className='about-img'></div>
+				<img className='about-img' src={require('./images/about.gif')} alt="about" />
 				<div className="about-us">
 					<h2>关于我们</h2>
 					<p>步湃科技始建于2016年，合伙人具有资深数据中心行业背景。多年的实际工作感到数据中心气流组织存在巨大的空白，
