@@ -3,6 +3,11 @@ import React, { Component } from "react";
 import './HomePro.css'
 
 class HomePro extends Component {
+	more(){
+		let url =  'http://localhost:2333/pdf/more.pdf';
+		window.open(url)
+	}
+
 	render () {
 		return (
 			<div className='home-pro'>
@@ -10,7 +15,7 @@ class HomePro extends Component {
 					<h2>专业之选</h2>
 					<p>步湃为您提供完善的末端气流组织方案，有效的<span>消除热点</span>提升数据中心<span>制冷容量</span>。</p>
 					<p><span>降低PUE</span>约0.05-0.2</p>
-					<button>了 解 更 多</button>
+					<a onClick={this.more}>了 解 更 多</a>
 				</div>
 				<div className='home-pro-right'>
 					<div className='home-pro-stand'>

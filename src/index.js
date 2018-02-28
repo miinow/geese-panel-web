@@ -1,16 +1,18 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { HashRouter } from "react-router-dom";
+import {  BrowserRouter } from "react-router-dom";
 
 import "./index.css";
 import App from "./App";
 
-import registerServiceWorker from "./registerServiceWorker";
+//import registerServiceWorker from "./registerServiceWorker";
 
 ReactDOM.render(
-	<HashRouter>
+	<BrowserRouter>
 		<App />
-	</HashRouter>,
+	</BrowserRouter>,
 	document.getElementById("root")
 );
-registerServiceWorker();
+
+//开启会导致静态文件访问出问题
+//registerServiceWorker();
