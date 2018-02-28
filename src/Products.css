@@ -9,10 +9,12 @@
 .products-title{
     width: 100%;
     padding-top: 2.73rem;
+    background-color: #fff;
 }
 
 .products p{
     font-size: 1rem;
+    margin: 0 auto;
 }
 
 .products h2{
@@ -22,6 +24,10 @@
 .products-img{
     width: 100%;
 
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 
 }
 

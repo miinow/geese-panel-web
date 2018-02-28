@@ -1,10 +1,16 @@
+.footer-wrapper{
+    background-color: #fff;
+    width: 100%;
+}
 .footer{
-    margin: 76px auto;
+    margin: 0 auto;
+    padding: 76px 0;
     width: 80%;
     font-size: 0.5rem;
 }
 .up-line{
     text-align: center;
+
     border-bottom: 1px solid #909090;
 }
 

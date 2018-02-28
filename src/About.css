@@ -4,8 +4,14 @@
 
 .about-img{
     width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
-
+.about-bottom{
+    background-color: #fff;
+}
 .about-us{
     color: #00a1e8;
     width: 100%;
@@ -17,6 +23,7 @@
 .about-us h2{
     line-height: 8rem;
     font-size: 2.8125rem;
+    background-color: #fff;
 }
 .about-us p{
     margin: 0 auto;

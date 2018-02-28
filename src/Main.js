@@ -4,6 +4,7 @@ import Home from './Home'
 import Service from './Service'
 import Products from './Products'
 import About from './About'
+import Contact from './Contact'
 
 class Header extends Component {
 	render () {
@@ -14,7 +15,7 @@ class Header extends Component {
 					<Route path='/products' component={Products} />
 					<Route path='/service' component={Service} />
 					<Route path='/about' component={About} />
-					{/*<Route path='/contact' component={Contact} />*/}
+					<Route path='/contact' component={Contact} />
 				</Switch>
 			</div>
 		);

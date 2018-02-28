@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import "./Header.css";
 
 class Header extends Component {
@@ -15,16 +15,16 @@ class Header extends Component {
 						<span className='tel'>Tel: 13811970638</span>
 						<ul className='nav'>
 							<li>
-								<Link to="/products" style={{ color: "#909090",textDecoration: "none" }}>产品</Link>
+								<NavLink to="/products" activeClassName='nav-active'  className='nav-tag'>产品</NavLink>
 							</li>
 							<li>
-								 <Link to="/service" style={{ color: "#909090",textDecoration: "none" }}>服务</Link>
+								 <NavLink to="/service" activeClassName='nav-active'  className='nav-tag'>服务</NavLink>
 							</li>
 							<li>
-								<Link to="/about" style={{ color: "#909090",textDecoration: "none" }}>关于步湃</Link>
+								<NavLink to="/about" activeClassName='nav-active'  className='nav-tag'>关于步湃</NavLink>
 							</li>
 							<li>
-								<Link to="/contact" style={{ color: "#909090",textDecoration: "none" }}>联系我们</Link>
+								<NavLink to="/contact" activeClassName='nav-active'  className='nav-tag'>联系我们</NavLink>
 							</li>
 						</ul>
 					</div>

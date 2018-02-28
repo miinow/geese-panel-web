@@ -1,15 +1,21 @@
 .pro{
     width: 100%;
+    background-color: #fff;
 }
 
 .pro-img{
     width: 70%;
-    margin-top: 4rem;
+    padding-top: 6rem;
 }
 
 .pro h2{
-    margin-top: -6rem;
+    padding-top: -6rem;
     font-weight: normal;
+    margin: 0 auto;
+}
+
+.pro p{
+    margin: 0 auto;
 }
 
 .pro div{

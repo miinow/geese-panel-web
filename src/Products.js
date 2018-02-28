@@ -28,7 +28,7 @@ class Products extends Component {
 			}];
 		return (
 			<div className='products'>
-				{/*<div className='products-img'></div>*/}
+				<div className='img-frame'></div>
 				<img className='products-img' src={require('./images/products.gif')} alt="products" />
 				<div className="products-title">
 					<img className='products-icon' src={require("./images/products-icon.png")} alt="products-icon" />

@@ -1,0 +1,28 @@
+.small-header{
+    height: 3.5rem;
+    width: 100%;
+    position: fixed;
+    top: -3.5rem;
+    clear: both;
+    background-color: #fff;
+    box-shadow: 0 1px 5px #888888;
+}
+.small-header-bar{
+    height: 4px;
+}
+.small-header-logo{
+    height: 2rem;
+    width: 6.375rem;
+    float: left;
+    margin: 0.8rem 4rem ;
+}
+
+.small-header-nav{
+    float: right;
+    margin-right: 6rem;
+}
+
+.small-header-nav li{
+    list-style: none;
+    float: left;
+}
